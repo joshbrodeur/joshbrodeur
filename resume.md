@@ -4,41 +4,42 @@ Springville, Iowa
 LinkedIn: https://www.linkedin.com/in/joshbrodeur
 
 # PRINCIPAL PRODUCT DISCOVERY & INNOVATION LEADER
-### Product Strategy • AI Innovation • Systems Thinking • Experimentation • Engineering Leadership
+### Product Strategy • Innovation • Systems Thinking • Experimentation • Leadership • Continuous Learning
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-Innovation leader with 18+ years of experience helping organizations solve complex technical, organizational, and product challenges through experimentation, systems thinking, and cross-functional leadership.
+Innovation leader with 18+ years of experience helping organizations solve complex technical, organizational, and product challenges through experimentation, systems thinking, alignment, and cross-functional leadership.
 
-My career has spanned engineering leadership, product discovery, portfolio management, Agile coaching, transformation, and complex capital projects. Rather than operating within traditional organizational boundaries, I specialize in connecting people, technology, customer insights, and business strategy to rapidly discover high-value opportunities and deliver measurable outcomes.
+My career has spanned engineering leadership, product discovery, portfolio management, Agile coaching, transformation, and complex capital projects. Rather than operating within traditional organizational boundaries, I specialize in connecting people, processes, technology, customer insights, and business strategy to rapidly discover high-value opportunities and deliver measurable outcomes.
 
-Known for entering ambiguous situations, identifying the real problem, aligning executive leadership and engineering teams, rapidly validating hypotheses, and transforming uncertainty into actionable product decisions.
+Known for entering ambiguous situations, identifying the real problem, aligning executive leadership and engineering teams, rapidly validating hypotheses, and transforming uncertainty into actionable decisions.
 
-Experienced working with executive leadership, engineering organizations, product management, hardware teams, software teams, and customers to build innovative products while improving organizational capability.
+Experienced working with executive leadership, engineering organizations, product management, hardware teams, software teams, mechanical teams, and customers to build innovative products while experimenting and improving organizational capability.
 
 Passionate about:
 
+- Systems Thinking
+- Organizational Learning
 - Product Discovery
 - AI Strategy
 - Innovation Systems
 - Human-Centered Design
 - Rapid Experimentation
-- Systems Thinking
-- Organizational Learning
+
 
 ---
 
 # CAREER HIGHLIGHTS
 
-✔ 18+ years leading cross-functional initiatives across engineering, software, product, and business organizations
+✔ 18+ years leading cross-functional initiatives across engineering, mechanical, control, software, product, and business organizations
 
 ✔ Executive advisor to CEOs, Vice Presidents, Engineering Directors, and Product Leadership
 
-✔ Led Agile transformations across global organizations
+✔ Led Agile transformation across a global organization
 
-✔ Facilitated product discovery for software and embedded hardware products
+✔ Facilitated product discovery for mechanical, embedded hardware and software products
 
 ✔ Coached engineering organizations in experimentation, customer-centric product development, and rapid learning
 
@@ -65,7 +66,7 @@ Passionate about:
 - Jobs-to-be-Done
 - Rapid Experimentation
 - MVP Strategy
-- Innovation Portfolio Management
+- Portfolio Management
 - Product Roadmapping
 - Concept Validation
 
@@ -86,9 +87,9 @@ Passionate about:
 
 - Hardware / Software Product Development
 - Embedded Systems Collaboration
-- PCB Product Development
-- AI Strategy
-- AI Productivity
+- Product Development
+- Strategy
+- Productivity
 - System Architecture
 - Root Cause Analysis
 - Human-Centered Design
@@ -102,8 +103,10 @@ Passionate about:
 - Agile
 - Scrum
 - Kanban
-- SAFe
+- Agile frameworks (i.e. SAFE, LeSS)
 - Risk Management
+- Assumption Mapping
+- Story Mapping
 - Strategic Planning
 - Continuous Improvement
 
