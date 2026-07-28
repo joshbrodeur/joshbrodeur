@@ -1,7 +1,7 @@
 # Josh Brodeur
-Springville, Iowa 
-319-431-6251 
-joshbrodeur@gmail.com 
+Springville, Iowa  
+319-431-6251  
+joshbrodeur@gmail.com  
 LinkedIn: https://www.linkedin.com/in/joshbrodeur
 
 # PRINCIPAL PRODUCT DISCOVERY & INNOVATION LEADER
