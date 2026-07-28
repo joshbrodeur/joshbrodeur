@@ -1,7 +1,10 @@
 # Josh Brodeur
-Springville, Iowa  
+Springville, Iowa
+
 319-431-6251
-joshbrodeur@gmail.com  
+
+joshbrodeur@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/joshbrodeur
 
 # PRINCIPAL PRODUCT DISCOVERY & INNOVATION LEADER
@@ -266,7 +269,7 @@ Improved internal project delivery processes and mentored project managers.
 # EDUCATION
 
 ## Master of Business Administration
-Global Management
+Global Finance
 
 University of Phoenix
 
