@@ -1,4 +1,4 @@
-[Josh Brodeur.md](https://github.com/user-attachments/files/30751861/Josh.Brodeur.md)
+# Josh Brodeur
 Springville, Iowa | 319.431.6251 | joshbrodeur@gmail.com | [linkedin](https://www.linkedin.com/in/joshbrodeur)
 
 **Interested in:** Discovery Product Management • Innovation Program Management • R&D Product Management • Organizational Design • Systems Architecture
